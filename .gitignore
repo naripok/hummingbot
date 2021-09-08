@@ -73,3 +73,6 @@ gateway.env
 /cover/
 /coverage_html_report/
 coverage.xml
+
+# local configs
+hummingbot_files
